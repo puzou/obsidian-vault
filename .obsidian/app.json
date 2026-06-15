@@ -1,3 +1,4 @@
 {
-  "openBehavior": "file:首页"
+  "openBehavior": "file:首页",
+  "alwaysUpdateLinks": true
 }
